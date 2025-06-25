@@ -1,0 +1,24 @@
+{
+  "Dataset Summary": {
+    "Total Points": 500,
+    "Study Area": "New York City",
+    "Geographic Bounds": {
+      "lat_min": 40.4774,
+      "lat_max": 40.9176,
+      "lon_min": -74.2591,
+      "lon_max": -73.7004
+    }
+  },
+  "Temperature Analysis": {
+    "Mean Temperature (\u00b0C)": 25.455352287977018,
+    "Temperature Range (\u00b0C)": 25.023678762224552,
+    "Standard Deviation (\u00b0C)": 3.6113343369100375,
+    "UHI Intensity Mean (\u00b0C)": 3.8509019895114873,
+    "UHI Intensity Max (\u00b0C)": 19.708002065432453
+  },
+  "Key Correlations": {
+    "NDVI vs Temperature": -0.37391692699778545,
+    "Building Density vs Temperature": 0.31242440282594985,
+    "Population vs Temperature": 0.6161226482992512
+  }
+}
